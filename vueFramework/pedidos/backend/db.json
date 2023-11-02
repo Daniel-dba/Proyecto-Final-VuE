@@ -1,0 +1,48 @@
+{
+  "areas": [  
+    {
+      "name": "Finanzas",
+      "encargado": "Jose Linares",
+      "funcionarios": "4",
+      "id": 1
+    },
+    {
+      "name": "Legal",
+      "encargado": "Ernesto Requena",
+      "funcionarios": "5",
+      "id": 2
+    },
+    {
+      "name": "Informatica",
+      "encargado": "Raul Alvarez",
+      "funcionarios": "6",
+      "id": 3
+    }
+  ],
+  "activos": [
+    {
+      "id": 1,
+      "tipo": "computadora",
+      "active": true,
+      "marca": "HP",
+      "modelo": "pavillion 360",
+      "areaId": 1
+    },
+    {
+      "tipo": "computadora",
+      "active": true,
+      "marca": "Dell",
+      "modelo": "inspirion 5330",
+      "areaId": 2,
+      "id": 2
+    },
+    {
+      "tipo": "computadora",
+      "active": true,
+      "marca": "Assus",
+      "modelo": "x515",
+      "areaId": 3,
+      "id": 3
+    }
+  ]
+}
